@@ -1,0 +1,11 @@
+This is another really simple sample. It's main goal is to get working
+a basic example very fast.
+
+This sample shows:
+* Use of Expressions in the DSL
+* Generation of Java Code
+* Use of styles in inspector (see Function concept editor, cell Iterations
+  in Inspector there is a Style with background-color and text-foreground-color)
+
+You can create a project with your favourite IDE and point the source directory
+to the solutions output directory.

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/de.kontext_e.mps.functions.sandbox.iml" filepath="$PROJECT_DIR$/de.kontext_e.mps.functions.sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mps.samples.functions.sandbox.iml" filepath="$PROJECT_DIR$/mps.samples.functions.sandbox.iml" />
+    </modules>
+  </component>
+</project>
+
